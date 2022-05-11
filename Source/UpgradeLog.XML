@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="等待">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\CollapsiblePanel\等待.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\CollapsiblePanel\等待.suo">
+</Property><Property Name="Date" Value="2013年9月29日">
+</Property><Property Name="Time" Value="16:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="等待.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\等待.sln">
+</Event><Event ErrorLevel="0" Project="" Source="等待.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\等待.suo">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CustomControls.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CustomControls.csproj">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanel.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanel.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanel.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanel.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanelActionList.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanelActionList.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanelDesigner.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanelDesigner.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Resources\collapse.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Resources\collapse.gif">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Resources\collapse_hightlight.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Resources\collapse_hightlight.gif">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Resources\expand.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Resources\expand.gif">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Resources\expand_highlight.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Resources\expand_highlight.gif">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanel.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanel.resx">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CollapsiblePanel.bmp" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\CollapsiblePanel.bmp">
+</Event><Event ErrorLevel="1" Project="CustomControls" Source="CustomControls.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CustomControls.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="CustomControls" Source="CustomControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\WindowsFormsApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\CollapsiblePanel\Backup\WindowsFormsApplication1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="等待.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="等待.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomControls" Source="CustomControls.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
